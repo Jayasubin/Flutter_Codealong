@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640503726260",
+    "project_id": "flash-chat-1da2b",
+    "storage_bucket": "flash-chat-1da2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640503726260:android:50c1fdfcd34dda0cf497e1",
+        "android_client_info": {
+          "package_name": "com.jayasubinflutter.my_flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640503726260-fe33u60cq3mvso1mghiq1cd38apls5hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Fie1Cj-FAyC6vA-FofMiNLKEcazGlJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640503726260-fe33u60cq3mvso1mghiq1cd38apls5hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
